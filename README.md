@@ -1,16 +1,15 @@
-## Hi there 👋
+# Fuma Digital (Fuma2514) — Same-Day Services
 
-<!--
-**Fuma2514/Fuma2514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Portfolio & past work: https://fuma2514.github.io/fuma-digital/
+On-chain audit sample: https://ws-11916a11af7614fd.lightvela.site/audits-flapjax-q80.html
 
-Here are some ideas to get you started:
+| Service | Flat price | Delivery |
+|---|---|---|
+| On-chain audit / EVM data analysis | $35 | same day |
+| Logo system + design pack | $40 | same day |
+| Python automation / scraper | $45 | same day |
+| AI chatbot template + setup | $50 | same day |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Payment:** USDC (Base or BSC) to `0x836775A055fD78E833a4aeE5D2e7593912bD6D1C`
+
+**Contact:** open an issue in this repo, or reply where you saw us posted.
