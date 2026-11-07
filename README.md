@@ -14,7 +14,7 @@
 🔗 **Smart-contract audit sample:** https://ws-11916a11af7614fd.lightvela.site/audits-flapjax-q80.html
 
 ## Open source
-- **fukilla** — ephemeral agent wallets on NEAR: 7-layer defense (spend caps, on-chain velocity breaker, canary honeypot, self-destruct sweep). Hackathon security-track project, live on testnet.
+- **fukilla** — burn-after-pay agent wallets on NEAR: 7-layer defense (spend caps, on-chain velocity breaker, canary honeypot, self-destruct sweep). Hackathon security-track project, live on testnet.
 - **payment-coroner** · **dreamdex-feedback** · **clearworks-mcp** — agent tooling & bounty work.
 
 **Payment:** USDC (all networks) · USDT (all networks) · ETH (all networks) · any crypto · PayPal
