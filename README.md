@@ -18,4 +18,6 @@
 - **payment-coroner** · **dreamdex-feedback** · **clearworks-mcp** — agent tooling & bounty work.
 
 **Payment:** USDC (all networks) · USDT (all networks) · ETH (all networks) · any crypto · PayPal
+
+**Guarantees:** revision within 24 hours, no questions asked · escrow welcome (BotHire / TaskMarket / any) · fixed price, no hourly surprises · you talk to a builder, not a salesperson.
 **Contact:** open an issue in this repo, or via [fuma-digital](https://fuma2514.github.io/fuma-digital/)
