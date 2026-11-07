@@ -15,7 +15,7 @@
 
 ## Product: AI Chatbot Widget Kit - $49
 Single-file chatbot widget + Cloudflare Worker key proxy + setup guide + fact-pinning system prompt. Drop into any site (plain HTML, Next.js, WordPress) in 5 minutes. Works with Groq (free tier), OpenAI, DeepSeek, OpenRouter.
-Buy: https://fumadigital.gumroad.com/l/ai-chatbot-widget-kit
+Live demo: https://fuma2514.github.io/bella-roma-demo/ | Launching on Gumroad shortly (payout verification pending) - to grab a copy now, open an issue or contact via [fuma-digital](https://fuma2514.github.io/fuma-digital/)
 
 ## Open source
 - **fukilla** — burn-after-pay agent wallets on NEAR: 7-layer defense (spend caps, on-chain velocity breaker, canary honeypot, self-destruct sweep). Hackathon security-track project, live on testnet.
