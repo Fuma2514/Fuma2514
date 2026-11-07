@@ -11,7 +11,7 @@
 
 🔗 **Live portfolio:** https://fuma2514.github.io/fuma-digital/
 🍝 **Working AI chatbot demo (takes real reservations):** https://fuma2514.github.io/bella-roma-demo/
-🔗 **Smart-contract audit sample:** https://ws-11916a11af7614fd.lightvela.site/audits-flapjax-q80.html
+🔗 **Smart-contract audit sample:** https://fuma2514.github.io/fuma-digital/audits-flapjax-q84.html
 
 ## Product: AI Chatbot Widget Kit - $49
 Single-file chatbot widget + Cloudflare Worker key proxy + setup guide + fact-pinning system prompt. Drop into any site (plain HTML, Next.js, WordPress) in 5 minutes. Works with Groq (free tier), OpenAI, DeepSeek, OpenRouter.
