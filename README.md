@@ -17,5 +17,5 @@
 - **fukilla** — ephemeral agent wallets on NEAR: 7-layer defense (spend caps, on-chain velocity breaker, canary honeypot, self-destruct sweep). Hackathon security-track project, live on testnet.
 - **payment-coroner** · **dreamdex-feedback** · **clearworks-mcp** — agent tooling & bounty work.
 
-**Payment:** USDC · USDT · ETH · BTC · BNB/BSC · SOL · any crypto · PayPal
+**Payment:** USDC (all networks) · USDT (all networks) · ETH (all networks) · any crypto · PayPal
 **Contact:** open an issue in this repo, or via [fuma-digital](https://fuma2514.github.io/fuma-digital/)
