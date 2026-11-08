@@ -57,4 +57,9 @@
 
 ## 📬 Contact
 
-Open an [issue in this repo](https://github.com/Fuma2514/Fuma2514/issues/new) — I answer same day. Or via [fuma-digital.co](https://fuma2514.github.io/fuma-digital/).
+Open an [issue in this repo](https://github.com/Fuma2514/Fuma2514/issues/new) — I answer same day.
+
+- 📧 **Email:** [fuma.ops@fldubai.com](mailto:fuma.ops@fldubai.com)
+- 🌐 **Portfolio & live demos:** [fuma2514.github.io/fuma-digital](https://fuma2514.github.io/fuma-digital/)
+- 🐦 **X:** [@Cakweeyy](https://x.com/Cakweeyy)
+- 💰 **Payments:** USDC / USDT / ETH on any network · escrow welcome
