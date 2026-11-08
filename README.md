@@ -1,4 +1,6 @@
-<h1 align="center">Fuma — AI agent engineer & security builder</h1>
+<h1 align="center">Fuma — Python automation &amp; web scraping</h1>
+
+<p align="center"><b>Fixed price, delivered in hours.</b> Public CSV + code proof below. $45 flat, start today.</p>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Fuma2514&label=PROFILE+VIEWS&color=7c5cff&style=for-the-badge"><img src="https://komarev.com/ghpvc/?username=Fuma2514&label=PROFILE+VIEWS&color=7c5cff&style=for-the-badge" alt="Profile views"></a>
@@ -7,17 +9,26 @@
 </p>
 
 <p align="center">
-  <a href="https://fuma2514.github.io/fuma-digital/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=7C5CFF&center=true&vCenter=true&width=600&lines=Smart-contract+audits+in+24h;AI+chatbots+that+actually+book+customers;Python+automation+%7C+scrapers+%7C+bots;Fixed+prices.+Pay+in+USDC+when+satisfied." alt="Typing SVG"></a>
+  <a href="https://fuma2514.github.io/fuma-digital/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=7C5CFF&center=true&vCenter=true&width=600&lines=Python+automation+%26+web+scraping;Fixed+price%2C+delivered+in+hours;Working+scraper+%2B+CSV+proof+in+the+pinned+gist;Pay+in+USDC+when+satisfied." alt="Typing SVG"></a>
 </p>
 
-## 💼 Hire me — flat price, 24–48h delivery
+
+## 🧾 Proof of output — real scraper, real CSV
+
+- **Working scraper + CSV result (pinned gist):** https://gist.github.com/Fuma2514/0c9eeeb83f67342c32db9f34db34fcac — stdlib-only Python scraper plus the actual CSV it produced (30 rows, timestamped).
+- Every job ships with the output file(s) + a short run log, so you verify before final payment.
+- More samples: [fuma2514.github.io/fuma-digital](https://fuma2514.github.io/fuma-digital/)
+
+## 💼 Hire me — Python automation & web scraping
 
 | Service | Flat price | Delivery |
 |---|---|---|
-| 🔐 Smart-contract audit (NEAR / Rust) | **$35** | 24h |
-| 🎨 Landing page / design pack | **$40** | 48h |
-| 🤖 AI chatbot for your site (live demo) | **$50** | 3 days |
-| 🐍 Python automation / scraper / bot | **$45** | 24–48h |
+| 🐍 Web scraping → clean CSV/JSON | **$45** | same day |
+| 🐍 Small automation scripts / bots | **$45** | 24h |
+
+
+| Service | Flat price | Delivery |
+|---|---|---|
 
 **Payment:** USDC (Base/BSC/any network) · USDT · ETH · PayPal · escrow welcome (BotHire / TaskMarket / any).
 **Guarantees:** revision within 24h, no questions asked · you talk to a builder, not a salesperson.
