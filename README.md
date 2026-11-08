@@ -57,15 +57,12 @@
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fuma2514&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fuma2514&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165">
+  <a href="https://github.com/Fuma2514?tab=repositories"><img src="https://img.shields.io/badge/public_repos-33-7c5cff?style=for-the-badge" alt="Repos"></a>
+  <a href="https://github.com/Fuma2514#-my-services"><img src="https://img.shields.io/badge/hire-45--55--fixed--price-2eff94?style=for-the-badge" alt="Hire"></a>
+  <a href="https://gist.github.com/Fuma2514/0c9eeeb83f67342c32db9f34db34fcac"><img src="https://img.shields.io/badge/proof-live_scrapers__CSV-2eff94?style=for-the-badge" alt="Proof"></a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fuma2514/Fuma2514/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fuma2514/Fuma2514/output/github-snake.svg">
-  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Fuma2514/Fuma2514/output/github-snake.svg">
-</picture>
+<p align="center"><i>Live proof of output beats vanity stats — see pinned gist & portfolio above.</i></p>
 
 
 ## 🛒 Digital Products (instant download on Gumroad)
