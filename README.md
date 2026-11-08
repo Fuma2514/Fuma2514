@@ -55,6 +55,12 @@
   <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Fuma2514/Fuma2514/output/github-snake.svg">
 </picture>
 
+
+## 🛒 Digital Products (instant download on Gumroad)
+
+- 🤖 **[AI Chatbot Setup Kit — $49](https://fumaopsh.gumroad.com/l/kqwfjsx)** — complete setup guide + 12 proven prompt templates + drop-in embed code. Live AI chatbot on your site in under an hour.
+- 🌐 **[Small Business Website Template — $99](https://fumaopsh.gumroad.com/l/vloyds)** — professional one-page site template + plain-English deploy guide. Live on free hosting in ~20 minutes.
+
 ## 📬 Contact
 
 Open an [issue in this repo](https://github.com/Fuma2514/Fuma2514/issues/new) — I answer same day.
