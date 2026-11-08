@@ -27,6 +27,7 @@
 
 - **[fukilla](https://github.com/Fuma2514/fukilla)** — 🕳️ burn-after-pay agent wallets on NEAR: 7-layer defense (spend caps, on-chain velocity breaker, canary honeypot, self-destruct sweep). NEAR HACKATHON 2026 security track.
 - **[awesome-n8n-templates](https://github.com/Fuma2514/awesome-n8n-templates)** — 280+ free, ready-to-use n8n automation workflows (Gmail, Telegram, Slack, WhatsApp, OpenAI, RAG agents).
+- **[ai-tools-id](https://github.com/Fuma2514/ai-tools-id)** — 🇮🇩 AI tools pilihan untuk kreator & UMKM Indonesia (tabel perbandingan harga & bahasa).
 - **[payment-coroner](https://github.com/Fuma2514/payment-coroner)** — 💀 AI autopsies for failed PayPal transactions: root cause, blame, recovery playbook.
 - **[clearworks-mcp](https://github.com/Fuma2514/clearworks-mcp)** — MCP server: AI-agent e-commerce workspace tools (orders, products, audits).
 - **[agent-native-escrow-console](https://github.com/Fuma2514/agent-native-escrow-console)** — human-supervised agent marketplace console with escrow approve-release UI.
