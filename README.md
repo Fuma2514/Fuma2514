@@ -56,7 +56,7 @@
 ## 📊 Stats
 
 <p align="center">
-  <a href="https://github.com/Fuma2514?tab=repositories"><img src="https://img.shields.io/badge/public_repos-46-7c5cff?style=for-the-badge" alt="Repos"></a>
+  <a href="https://github.com/Fuma2514?tab=repositories"><img src="https://img.shields.io/badge/public_repos-45-7c5cff?style=for-the-badge" alt="Repos"></a>
   <a href="https://github.com/Fuma2514#-my-services"><img src="https://img.shields.io/badge/hire-35--50--fixed--price-2eff94?style=for-the-badge" alt="Hire"></a>
   <a href="https://gist.github.com/Fuma2514/0c9eeeb83f67342c32db9f34db34fcac"><img src="https://img.shields.io/badge/proof-live_scrapers__CSV-2eff94?style=for-the-badge" alt="Proof"></a>
 </p>
