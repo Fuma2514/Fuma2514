@@ -1,6 +1,6 @@
-<h1 align="center">Fuma — Python automation &amp; web scraping</h1>
+<h1 align="center">Fuma — Python automation & web scraping</h1>
 
-<p align="center"><b>Fixed price, delivered in hours.</b> Public CSV + code proof below. $45 flat, start today.</p>
+<p align="center"><b>Fixed price, delivered in hours.</b> Public CSV + code proof below. Services from $35, start today.</p>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Fuma2514&label=PROFILE+VIEWS&color=7c5cff&style=for-the-badge"><img src="https://komarev.com/ghpvc/?username=Fuma2514&label=PROFILE+VIEWS&color=7c5cff&style=for-the-badge" alt="Profile views"></a>
@@ -19,16 +19,15 @@
 - Every job ships with the output file(s) + a short run log, so you verify before final payment.
 - More samples: [fuma2514.github.io/fuma-digital](https://fuma2514.github.io/fuma-digital/)
 
-## 💼 Hire me — Python automation & web scraping
+## 💼 Hire me — fixed price, delivered in hours
 
 | Service | Flat price | Delivery |
 |---|---|---|
 | 🐍 Web scraping → clean CSV/JSON | **$45** | same day |
 | 🐍 Small automation scripts / bots | **$45** | 24h |
-
-
-| Service | Flat price | Delivery |
-|---|---|---|
+| 🔍 On-chain audit (sample below) | **$35** | 24h |
+| 🎨 Design pack | **$40** | 24h |
+| 🤖 AI chatbot setup | **$50** | 24h |
 
 **Payment:** USDC (Base/BSC/any network) · USDT · ETH · PayPal · escrow welcome (BotHire / TaskMarket / any).
 **Guarantees:** revision within 24h, no questions asked · you talk to a builder, not a salesperson.
@@ -37,7 +36,7 @@
 ## 🚀 Featured work
 
 - **[fukilla](https://github.com/Fuma2514/fukilla)** — 🕳️ burn-after-pay agent wallets on NEAR: 7-layer defense (spend caps, on-chain velocity breaker, canary honeypot, self-destruct sweep). NEAR HACKATHON 2026 security track.
-- **[awesome-n8n-templates](https://github.com/Fuma2514/awesome-n8n-templates)** — 280+ free, ready-to-use n8n automation workflows (Gmail, Telegram, Slack, WhatsApp, OpenAI, RAG agents).
+- **[hermes-mint-guard](https://github.com/Fuma2514/hermes-mint-guard)** — 🛡️ safety-check a BSC ERC-721 free mint before you mint. Read-only on-chain reads, no keys, no signing, no spending. 22/22 tests passing.
 - **[ai-tools-id](https://github.com/Fuma2514/ai-tools-id)** — 🇮🇩 AI tools pilihan untuk kreator & UMKM Indonesia (tabel perbandingan harga & bahasa).
 - **[payment-coroner](https://github.com/Fuma2514/payment-coroner)** — 💀 AI autopsies for failed PayPal transactions: root cause, blame, recovery playbook.
 - **[clearworks-mcp](https://github.com/Fuma2514/clearworks-mcp)** — MCP server: AI-agent e-commerce workspace tools (orders, products, audits).
@@ -57,8 +56,8 @@
 ## 📊 Stats
 
 <p align="center">
-  <a href="https://github.com/Fuma2514?tab=repositories"><img src="https://img.shields.io/badge/public_repos-33-7c5cff?style=for-the-badge" alt="Repos"></a>
-  <a href="https://github.com/Fuma2514#-my-services"><img src="https://img.shields.io/badge/hire-45--55--fixed--price-2eff94?style=for-the-badge" alt="Hire"></a>
+  <a href="https://github.com/Fuma2514?tab=repositories"><img src="https://img.shields.io/badge/public_repos-46-7c5cff?style=for-the-badge" alt="Repos"></a>
+  <a href="https://github.com/Fuma2514#-my-services"><img src="https://img.shields.io/badge/hire-35--50--fixed--price-2eff94?style=for-the-badge" alt="Hire"></a>
   <a href="https://gist.github.com/Fuma2514/0c9eeeb83f67342c32db9f34db34fcac"><img src="https://img.shields.io/badge/proof-live_scrapers__CSV-2eff94?style=for-the-badge" alt="Proof"></a>
 </p>
 
